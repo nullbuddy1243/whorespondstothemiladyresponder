@@ -1,6 +1,6 @@
 # Milady Responder, Responder 
 
-Responds to (@MiIadyResponder)[https://twitter.com/MiIadyResponder] when it says "milady" in reply to someone who follows it when they say "milady". 
+Responds "milady" to (@MiIadyResponder)[https://twitter.com/MiIadyResponder] when it replies "milady" in reply to someone after they said "milady".
 
 # links
 
